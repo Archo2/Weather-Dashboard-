@@ -2,7 +2,7 @@
 
 A weather app that shows current conditions and a 5-day forecast for any city, using the OpenWeather API.
 
-**Live demo:** https://archils.github.io/Weather-Dashboard-/
+**Live demo:** https://archo2.github.io/Weather-Dashboard-/
 
 > **Note:** This app uses OpenWeather's One Call API 2.5, which OpenWeather has since retired. Searches may no longer return data until the app is updated to the newer One Call 3.0 or the free 5-day forecast endpoint.
 
@@ -20,7 +20,7 @@ HTML · CSS · JavaScript · [OpenWeather API](https://openweathermap.org/api)
 
 ## How to Use
 
-1. Open the [live demo](https://archils.github.io/Weather-Dashboard-/) or open `index.html` in your browser.
+1. Open the [live demo](https://archo2.github.io/Weather-Dashboard-/) or open `index.html` in your browser.
 2. Type a city name and click **Search**.
 3. Click any city in your search history to see its weather again.
 
@@ -33,5 +33,5 @@ To run it with your own key, create a free account at [openweathermap.org](https
 ## Author
 
 **Archils Oburu**
-- GitHub: [@Archils](https://github.com/Archils)
+- GitHub: [@Archo2](https://github.com/Archo2)
 - Email: oburuarchils@gmail.com
